@@ -1,0 +1,248 @@
+[
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/Module7.dir/Module7/main.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/Module7/main.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/Module7/main.cpp",
+  "output": "CMakeFiles/Module7.dir/Module7/main.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/Module7.dir/Module7/lighting_shader_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/Module7/lighting_shader_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/Module7/lighting_shader_node.cpp",
+  "output": "CMakeFiles/Module7.dir/Module7/lighting_shader_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/Module8.dir/Module8/main.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/Module8/main.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/Module8/main.cpp",
+  "output": "CMakeFiles/Module8.dir/Module8/main.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/Module8.dir/Module8/lighting_shader_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/Module8/lighting_shader_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/Module8/lighting_shader_node.cpp",
+  "output": "CMakeFiles/Module8.dir/Module8/lighting_shader_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/Module8.dir/Module8/sphere.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/Module8/sphere.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/Module8/sphere.cpp",
+  "output": "CMakeFiles/Module8.dir/Module8/sphere.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/camera_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/camera_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/camera_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/camera_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/color3.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/color3.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/color3.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/color3.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/color4.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/color4.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/color4.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/color4.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/color_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/color_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/color_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/color_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/conic.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/conic.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/conic.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/conic.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/geometry_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/geometry_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/geometry_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/geometry_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/mesh_teapot.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/mesh_teapot.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/mesh_teapot.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/mesh_teapot.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/presentation_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/presentation_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/presentation_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/presentation_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/scene.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/scene.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/scene.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/scene.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/scene_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/scene_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/scene_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/scene_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/scene_state.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/scene_state.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/scene_state.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/scene_state.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/shader_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/shader_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/shader_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/shader_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/surface_of_revolution.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/surface_of_revolution.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/surface_of_revolution.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/surface_of_revolution.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/transform_node.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/transform_node.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/transform_node.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/transform_node.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/tri_surface.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/tri_surface.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/tri_surface.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/tri_surface.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/scene",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/scene_lib.dir/unit_square.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/scene/unit_square.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/scene/unit_square.cpp",
+  "output": "scene/CMakeFiles/scene_lib.dir/unit_square.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/aabb.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/aabb.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/aabb.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/aabb.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/bounding_sphere.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/bounding_sphere.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/bounding_sphere.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/bounding_sphere.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/geometry.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/geometry.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/geometry.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/geometry.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/hpoint2.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/hpoint2.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/hpoint2.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/hpoint2.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/hpoint3.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/hpoint3.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/hpoint3.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/hpoint3.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/matrix.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/matrix.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/matrix.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/matrix.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/noise.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/noise.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/noise.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/noise.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/plane.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/plane.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/plane.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/plane.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/point2.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/point2.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/point2.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/point2.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/point3.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/point3.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/point3.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/point3.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/ray3.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/ray3.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/ray3.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/ray3.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/segment2.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/segment2.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/segment2.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/segment2.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/segment3.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/segment3.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/segment3.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/segment3.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/types.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/types.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/types.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/types.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/vector2.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/vector2.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/vector2.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/vector2.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/geometry",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/geometry_lib.dir/vector3.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/geometry/vector3.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/geometry/vector3.cpp",
+  "output": "geometry/CMakeFiles/geometry_lib.dir/vector3.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/shader_support",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/shader_support_lib.dir/glsl_shader.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/shader_support/glsl_shader.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/shader_support/glsl_shader.cpp",
+  "output": "shader_support/CMakeFiles/shader_support_lib.dir/glsl_shader.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/shader_support",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/shader_support_lib.dir/glsl_shader_program.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/shader_support/glsl_shader_program.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/shader_support/glsl_shader_program.cpp",
+  "output": "shader_support/CMakeFiles/shader_support_lib.dir/glsl_shader_program.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/filesystem_support",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/filesystem_support_lib.dir/file_loader.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/filesystem_support/file_loader.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/filesystem_support/file_loader.cpp",
+  "output": "filesystem_support/CMakeFiles/filesystem_support_lib.dir/file_loader.cpp.o"
+},
+{
+  "directory": "/home/kyle/random/comp_graphics/Graphics_module_8/build/filesystem_support",
+  "command": "/usr/bin/c++ -DBUILD_LINUX -DGL_GLEXT_PROTOTYPES -DGL_SILENCE_DEPRECATION -DRESOURCE_DIR=/home/kyle/random/comp_graphics/Graphics_module_8/resources -DSRC_DIR=/home/kyle/random/comp_graphics/Graphics_module_8 -DSRC_ROOT=/home/kyle/random/comp_graphics/Graphics_module_8/ -I/home/kyle/random/comp_graphics/Graphics_module_8 -I/home/kyle/random/comp_graphics/Graphics_module_8/include -std=gnu++17 -o CMakeFiles/filesystem_support_lib.dir/file_locator.cpp.o -c /home/kyle/random/comp_graphics/Graphics_module_8/filesystem_support/file_locator.cpp",
+  "file": "/home/kyle/random/comp_graphics/Graphics_module_8/filesystem_support/file_locator.cpp",
+  "output": "filesystem_support/CMakeFiles/filesystem_support_lib.dir/file_locator.cpp.o"
+}
+]
