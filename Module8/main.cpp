@@ -547,7 +547,7 @@ void construct_scene()
 {
     // Shader node
     auto shader = std::make_shared<cg::LightingShaderNode>();
-    if(!shader->create("Module8/simple_light.vert", "Module8/simple_light.frag") ||
+    if(!shader->create("Module8/vertex_lighting.vert", "Module8/vertex_lighting.frag") ||
        !shader->get_locations())
     {
         exit(-1);

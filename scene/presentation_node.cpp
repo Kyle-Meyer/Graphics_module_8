@@ -6,6 +6,12 @@ namespace cg
 PresentationNode::PresentationNode()
 {
     node_type_ = SceneNodeType::PRESENTATION;
+    
+    // Set default material properties (gray, slightly shiny)
+    material_ambient_ = Color4(0.2f, 0.2f, 0.2f, 1.0f);
+    material_diffuse_ = Color4(0.8f, 0.8f, 0.8f, 1.0f);
+    material_specular_ = Color4(0.0f, 0.0f, 0.0f, 1.0f);
+    material_emission_ = Color4(0.0f, 0.0f, 0.0f, 1.0f);
     material_shininess_ = 1.0f;
 }
 
